@@ -1,4 +1,4 @@
-# Website-clone
+# Apple-clone
 Repositório de clone do sites da Apple utilizando HTML, CSS e Javascript
 
 ## Referências
