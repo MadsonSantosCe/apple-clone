@@ -1,5 +1,5 @@
 # Website-clone
-Repositório de clones de sites utilizando variadas linguagens
+Repositório de clone do sites da Apple utilizando HTML, CSS e Javascript
 
 ## Referências
 - Clone do site da Apple - Youtube [Násser Yousef Ali](https://www.youtube.com/watch?v=DtLFNaxuhwM&t "Násser Yousef Ali")
